@@ -10,8 +10,13 @@ change name TTBackUp >>> TopTagTest for code to run.
 
 follow the instructions at 
 
-https://github.com/susy2015/SusyAnaTools
-
-https://github.com/susy2015/TopTagger
+       1] https://github.com/susy2015/SusyAnaTools
+       2] https://github.com/susy2015/TopTagger
 
 SusyAnaTools TopTagger and TopTagTest must be in $CMSSW_BASE/src
+
+
+to run TopTagTest
+   go to test
+   make
+
